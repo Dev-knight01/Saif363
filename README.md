@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Saif363
-- 👀 I’m interested in game devlopment
+- 👀 I’m interested in App devlopment
 - 🌱 I’m currently learning javaScript
 - 💞️ I’m looking to collaborate on web development project
 - 📫 How to reach me ...
